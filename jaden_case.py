@@ -14,5 +14,3 @@ def solution(s):
     new_string = ''.join(list_s)
 
     return new_string
-
-print(solution("3people unFollowed me "))
