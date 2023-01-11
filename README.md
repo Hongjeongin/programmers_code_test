@@ -6,3 +6,9 @@
 
 ### * JadenCase 문자열
 > jaden_case.py
+
+### * 최솟값 만들기
+> make_min_value.py
+
+### * 올바른 괄호
+> correct_parenthesis.py
